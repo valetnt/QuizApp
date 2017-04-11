@@ -1,0 +1,76 @@
+<resources>
+
+    <string name="app_name">The Simpsons Trivia Quiz</string>
+    <string name="Header_1">The Simpsons</string>
+    <string name="Header_2">Trivia Quiz</string>
+    <string name="Question1">Question 1</string>
+    <string name="Question2">Question 2</string>
+    <string name="Question3">Question 3</string>
+    <string name="Question4">Question 4</string>
+    <string name="Question5">Question 5</string>
+    <string name="Question6">Question 6</string>
+    <string name="Question7">Question 7</string>
+    <string name="Question8">Question 8</string>
+    <string name="Question9">Question 9</string>
+    <string name="Question10">Question 10</string>
+
+    <string name="Question1Text">What is Marge Simpson\'s maiden name?</string>
+
+    <string name="Question2Text">Which one of the following characters is NOT a regular customer at
+        Moe\'s tavern?</string>
+    <string name="Q2Option1">Carl Carlson</string>
+    <string name="Q2Option2">Ned Flanders</string>
+    <string name="Q2Option3">Barney Gumble</string>
+    <string name="Q2Option4">Lenny Leonard</string>
+
+    <string name="Question3Text">Which of the following characters are the usual targets for
+        Bart Simpson\'s pranks? (check all applicable answers)</string>
+    <string name="Q3Option1">Principal Skinner</string>
+    <string name="Q3Option2">Nelson Muntz</string>
+    <string name="Q3Option3">Groundskeeper Willie</string>
+    <string name="Q3Option4">Moe Szyslak</string>
+    <string name="Q3Option5">Jimbo Jones</string>
+
+    <string name="Question4Text">What is the name of Chief Wiggum\'s son?</string>
+    <string name="Q4Option1">Ralph</string>
+    <string name="Q4Option2">Martin</string>
+    <string name="Q4Option3">Nelson</string>
+
+    <string name="Question5Text">What is the name of Bart\'s best friend?</string>
+
+    <string name="Question6Text">Which one of the following jobs did NOT put Homer\'s
+        life in danger?</string>
+    <string name="Q6Option1">ambulance driver</string>
+    <string name="Q6Option2">food critic</string>
+    <string name="Q6Option3">trucker</string>
+
+    <string name="Question7Text">In one of the episodes of Season 9, Marge finds a job as</string>
+    <string name="Q7Option1">car dealer</string>
+    <string name="Q7Option2">clerk at Kwick-E-Mart</string>
+    <string name="Q7Option3">estate agent</string>
+
+    <string name="Question8Text">Of which TV series are Aunt Patty and Aunt Selma great fans?</string>
+    <string name="Q8Option1">Baywatch</string>
+    <string name="Q8Option2">McGyver</string>
+    <string name="Q8Option3">Magnum P.I.</string>
+
+    <string name="Question9Text">Bart and Lisa have a talent for solving mysteries and thwart
+        criminal plots. Which one of the following characters has benefitted the most from
+        their help?</string>
+    <string name="Q9Option1">Mr. Burns</string>
+    <string name="Q9Option2">Krusty the Clown</string>
+    <string name="Q9Option3">Roger Meyers, Jr.</string>
+
+    <string name="Question10Text">In one of the episodes of Season 5, we find out that Mr. Burns\'
+        personal secretary, Mr. Smithers, owns an impressive collection of</string>
+    <string name="Q10Option1">rare gadgets of Krusty the Clown</string>
+    <string name="Q10Option2">\"Radioactive Man\" comics</string>
+    <string name="Q10Option3">\"Malibu Stacy\" dolls</string>
+
+    <string name="Submit">Submit</string>
+
+    <string name="YourScore">Your Score</string>
+    <string name="YourLevel">Your Level</string>
+
+</resources>
+

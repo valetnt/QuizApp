@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/toastContainer"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    tools:context="com.example.android.quizapp.MainActivity">
+
+    <ImageView
+        android:id="@+id/toastImage"
+        android:layout_width="@dimen/toastImageDimen"
+        android:layout_height="@dimen/toastImageDimen"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/hugePadding"
+        android:scaleType="centerInside" />
+
+    <TextView
+        android:id="@+id/toastScore"
+        style="@style/ToastScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:padding="@dimen/mediumPadding"
+        android:text="@string/YourScore" />
+
+    <TextView
+        android:id="@+id/toastMessage"
+        style="@style/ToastMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toastScore"
+        android:layout_centerHorizontal="true"
+        android:padding="@dimen/mediumPadding"
+        android:text="@string/YourLevel" />
+
+</RelativeLayout>
