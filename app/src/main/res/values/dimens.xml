@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <dimen name="activity_margin">16dp</dimen>
+
     <dimen name="horizLineHeight">1dp</dimen>
     <dimen name="smallPadding">6dp</dimen>
     <dimen name="mediumPadding">12dp</dimen>
-    <dimen name="bigPadding">22dp</dimen>
     <dimen name="hugePadding">56dp</dimen>
-    <dimen name="toastImageDimen">280dp</dimen>
+    <dimen name="toastImageDimen">220dp</dimen>
 
     <dimen name="mainHeaderTextSize">28sp</dimen>
     <dimen name="secondHeaderTextSize">16sp</dimen>

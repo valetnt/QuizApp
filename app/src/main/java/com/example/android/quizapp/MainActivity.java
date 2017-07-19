@@ -208,7 +208,7 @@ public class MainActivity extends AppCompatActivity {
         CharSequence toastMessage;
 
         if (mCounter < 3) {
-            toastMessage = "Hmm... you could do better";
+            toastMessage = "Hmm... you could do better... ";
         } else if (mCounter < 5) {
             toastMessage = "Not so bad, dude";
         } else if (mCounter < 7) {

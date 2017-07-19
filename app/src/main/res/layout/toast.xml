@@ -15,24 +15,31 @@
         android:layout_marginBottom="@dimen/hugePadding"
         android:scaleType="centerInside" />
 
-    <TextView
-        android:id="@+id/toastScore"
-        style="@style/ToastScore"
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:padding="@dimen/mediumPadding"
-        android:text="@string/YourScore" />
+        android:orientation="vertical"
+        android:padding="@dimen/activity_margin">
 
-    <TextView
-        android:id="@+id/toastMessage"
-        style="@style/ToastMessage"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/toastScore"
-        android:layout_centerHorizontal="true"
-        android:padding="@dimen/mediumPadding"
-        android:text="@string/YourLevel" />
+        <TextView
+            android:id="@+id/toastScore"
+            style="@style/ToastScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/YourScore" />
+
+        <TextView
+            android:id="@+id/toastMessage"
+            style="@style/ToastMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/YourLevel" />
+
+    </LinearLayout>
 
 </RelativeLayout>
