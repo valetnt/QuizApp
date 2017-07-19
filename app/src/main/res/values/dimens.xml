@@ -6,13 +6,13 @@
     <dimen name="mediumPadding">12dp</dimen>
     <dimen name="bigPadding">22dp</dimen>
     <dimen name="hugePadding">56dp</dimen>
-    <dimen name="toastImageDimen">300dp</dimen>
+    <dimen name="toastImageDimen">280dp</dimen>
 
     <dimen name="mainHeaderTextSize">28sp</dimen>
     <dimen name="secondHeaderTextSize">16sp</dimen>
     <dimen name="questionHeaderTextSize">20sp</dimen>
     <dimen name="questionTextSize">16sp</dimen>
-    <dimen name="toastScoreTextSize">36sp</dimen>
-    <dimen name="toastMessageTextSize">22sp</dimen>
+    <dimen name="toastScoreTextSize">32sp</dimen>
+    <dimen name="toastMessageTextSize">26sp</dimen>
 
 </resources>

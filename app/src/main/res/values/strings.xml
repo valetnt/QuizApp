@@ -69,6 +69,8 @@
 
     <string name="Submit">Submit</string>
 
+    <string name="ErrorMsg">One or more answers are missing!</string>
+
     <string name="YourScore">Your Score</string>
     <string name="YourLevel">Your Level</string>
 
